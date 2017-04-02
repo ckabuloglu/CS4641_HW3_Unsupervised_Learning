@@ -1,0 +1,126 @@
+PCA - kmeans
+N: 2
+Variance: 19.8457716255
+Accuracy: 0.238668844426
+N: 5
+Variance: 0.0783659724798
+Accuracy: 0.239485504287
+N: 7
+Variance: 0.0260755565819
+Accuracy: 0.250918742344
+N: 9
+Variance: 0.000388528061215
+Accuracy: 0.24499795835
+N: 11
+Variance: 0.0
+Accuracy: 0.238873009392
+
+PCA - EM
+N: 2
+Variance: 19.8457716255
+Accuracy: 0.243364638628
+N: 5
+Variance: 0.0783659724884
+Accuracy: 0.324418129849
+N: 7
+Variance: 0.0260755565814
+Accuracy: 0.361371988567
+N: 9
+Variance: 0.000388528061215
+Accuracy: 0.32482645978
+N: 11
+Variance: 0.0
+Accuracy: 0.338913842385
+
+ICA - kmeans
+N: 2
+Accuracy: 0.253164556962
+N: 5
+Accuracy: 0.26582278481
+N: 7
+Accuracy: 0.248672927726
+N: 9
+Accuracy: 0.270722743977
+N: 11
+Accuracy: 0.286035116374
+
+ICA - EM
+N: 2
+Accuracy: 0.311555737036
+N: 5
+Accuracy: 0.417109024091
+N: 7
+Accuracy: 0.365455287873
+N: 9
+Accuracy: 0.332993058391
+N: 11
+Accuracy: 0.345651286239
+
+RP - kmeans
+N: 2
+Accuracy: 0.206819109841
+N: 5
+Accuracy: 0.247652102899
+N: 7
+Accuracy: 0.231931400572
+N: 9
+Accuracy: 0.211923233973
+N: 11
+Accuracy: 0.217435688036
+
+RP - EM
+N: 2
+Accuracy: 0.268068599428
+N: 5
+Accuracy: 0.324418129849
+N: 7
+Accuracy: 0.325030624745
+N: 9
+Accuracy: 0.29746835443
+N: 11
+Accuracy: 0.334422213148
+
+Feature Selection - kmeans
+Var: 0.05
+Accuracy: 0.251122907309
+Var: 0.1
+Accuracy: 0.247652102899
+Var: 0.15
+Accuracy: 0.242547978767
+Var: 0.2
+Accuracy: 0.240302164149
+Var: 0.25
+Accuracy: 0.249693752552
+Var: 0.3
+Accuracy: 0.240710494079
+Var: 0.35
+Accuracy: 0.25193956717
+Var: 0.4
+Accuracy: 0.242139648836
+Var: 0.45
+Accuracy: 0.246222948142
+Var: 0.5
+Accuracy: 0.239077174357
+
+Feature Selection - EM
+Var: 0.05
+Accuracy: 0.342792976725
+Var: 0.1
+Accuracy: 0.422621478154
+Var: 0.15
+Accuracy: 0.295222539812
+Var: 0.2
+Accuracy: 0.306043282973
+Var: 0.25
+Accuracy: 0.281543487138
+Var: 0.3
+Accuracy: 0.446917109024
+Var: 0.35
+Accuracy: 0.29746835443
+Var: 0.4
+Accuracy: 0.300122498979
+Var: 0.45
+Accuracy: 0.436096365864
+Var: 0.5
+Accuracy: 0.422213148224
+
