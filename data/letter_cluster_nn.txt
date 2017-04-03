@@ -5,8 +5,6 @@ KM + EM: 0.8004
 
 CLUSTERS: 3
 KM: 0.7842
-/usr/local/lib/python3.6/site-packages/sklearn/neural_network/multilayer_perceptron.py:563: ConvergenceWarning: Stochastic Optimizer: Maximum iterations reached and the optimization hasn't converged yet.
-  % (), ConvergenceWarning)
 EM: 0.7972
 KM + EM: 0.7954
 
