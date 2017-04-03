@@ -1,0 +1,66 @@
+CLUSTERS: 1
+KM: 0.782
+EM: 0.7988
+KM + EM: 0.8004
+
+CLUSTERS: 3
+KM: 0.7842
+/usr/local/lib/python3.6/site-packages/sklearn/neural_network/multilayer_perceptron.py:563: ConvergenceWarning: Stochastic Optimizer: Maximum iterations reached and the optimization hasn't converged yet.
+  % (), ConvergenceWarning)
+EM: 0.7972
+KM + EM: 0.7954
+
+CLUSTERS: 5
+KM: 0.8098
+EM: 0.7938
+KM + EM: 0.7972
+
+CLUSTERS: 7
+KM: 0.775
+EM: 0.7962
+KM + EM: 0.7978
+
+CLUSTERS: 9
+KM: 0.8092
+EM: 0.786
+KM + EM: 0.8062
+
+CLUSTERS: 11
+KM: 0.7868
+EM: 0.7812
+KM + EM: 0.8176
+
+CLUSTERS: 13
+KM: 0.8098
+EM: 0.7838
+KM + EM: 0.8068
+
+CLUSTERS: 15
+KM: 0.7832
+EM: 0.8032
+KM + EM: 0.7952
+
+CLUSTERS: 17
+KM: 0.7746
+EM: 0.7874
+KM + EM: 0.7984
+
+CLUSTERS: 19
+KM: 0.804
+EM: 0.7804
+KM + EM: 0.7852
+
+CLUSTERS: 21
+KM: 0.7816
+EM: 0.7826
+KM + EM: 0.78
+
+CLUSTERS: 23
+KM: 0.7932
+EM: 0.7964
+KM + EM: 0.8062
+
+CLUSTERS: 25
+KM: 0.7886
+EM: 0.7774
+KM + EM: 0.7944

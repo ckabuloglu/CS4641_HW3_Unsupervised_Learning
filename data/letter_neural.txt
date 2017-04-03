@@ -1,0 +1,52 @@
+N: 2
+Score: 0.1516
+N: 4
+Score: 0.381
+N: 6
+Score: 0.5354
+N: 8
+Score: 0.6206
+N: 10
+Score: 0.6986
+N: 12
+Score: 0.7318
+N: 14
+Score: 0.7536
+N: 16
+Score: 0.7708
+
+ICA
+N: 2
+Score: 0.1496
+N: 4
+Score: 0.3618
+N: 6
+Score: 0.5294
+N: 8
+Score: 0.5932
+N: 10
+Score: 0.6744
+N: 12
+Score: 0.7126
+N: 14
+Score: 0.724
+N: 16
+Score: 0.7534
+
+RPs
+N: 2
+Score: 0.1518
+N: 4
+Score: 0.3204
+N: 6
+Score: 0.4442
+N: 8
+Score: 0.563
+N: 10
+Score: 0.6266
+N: 12
+Score: 0.6664
+N: 14
+Score: 0.7038
+N: 16
+Score: 0.7332
