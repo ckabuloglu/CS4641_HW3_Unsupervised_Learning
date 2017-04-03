@@ -1,5 +1,3 @@
-# CS4641_HW3_Unsupervised_Learning
-
 For this homework, I've written seperate python (python 2.7 and python 3) scripts for each dataset and certain algorithms
 
 Running the scripts will produce the graphs I have acquired before since all of the use the same random state. 
